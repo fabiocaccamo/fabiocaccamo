@@ -92,6 +92,13 @@ I like to write reusable code. I published and actively maintain many **open-sou
             <!-- <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-maintenance-mode?style=flat-square&labelColor=343b41"/></td> -->
         </tr>
         <tr>
+            <td><a href="https://github.com/fabiocaccamo/django-treenode"><b>django-treenode</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/fabiocaccamo/django-treenode?style=flat-square&labelColor=343b41"/></td>
+            <!-- <td><img alt="Forks" src="https://img.shields.io/github/forks/fabiocaccamo/django-treenode?style=flat-square&labelColor=343b41"/></td> -->
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/fabiocaccamo/django-treenode?style=flat-square&labelColor=343b41"/></td>
+            <!-- <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-treenode?style=flat-square&labelColor=343b41"/></td> -->
+        </tr>
+        <tr>
             <td><a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder"><b>FCIPAddressGeocoder</b></a></td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/fabiocaccamo/FCIPAddressGeocoder?style=flat-square&labelColor=343b41"/></td>
             <!-- <td><img alt="Forks" src="https://img.shields.io/github/forks/fabiocaccamo/FCIPAddressGeocoder?style=flat-square&labelColor=343b41"/></td> -->
@@ -111,6 +118,13 @@ I like to write reusable code. I published and actively maintain many **open-sou
             <!-- <td><img alt="Forks" src="https://img.shields.io/github/forks/fabiocaccamo/python-fsutil?style=flat-square&labelColor=343b41"/></td> -->
             <td><img alt="Issues" src="https://img.shields.io/github/issues/fabiocaccamo/python-fsutil?style=flat-square&labelColor=343b41"/></td>
             <!-- <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/fabiocaccamo/python-fsutil?style=flat-square&labelColor=343b41"/></td> -->
+        </tr>
+        <tr>
+            <td><a href="https://github.com/fabiocaccamo/django-freeze"><b>django-freeze</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/fabiocaccamo/django-freeze?style=flat-square&labelColor=343b41"/></td>
+            <!-- <td><img alt="Forks" src="https://img.shields.io/github/forks/fabiocaccamo/django-freeze?style=flat-square&labelColor=343b41"/></td> -->
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/fabiocaccamo/django-freeze?style=flat-square&labelColor=343b41"/></td>
+            <!-- <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-freeze?style=flat-square&labelColor=343b41"/></td> -->
         </tr>
         <tr>
             <td><a href="https://github.com/fabiocaccamo/python-codicefiscale"><b>python-codicefiscale</b></a></td>
