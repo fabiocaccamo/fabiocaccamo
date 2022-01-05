@@ -1,9 +1,10 @@
-Hello! :wave: 
+# Hello! :wave: 
 
 My name is **Fabio Caccamo**.
 
 I'm a passionate, self-taught, perfectionist 🧐 full-stack **developer** based in Torino, Italy. :it: :pinched_fingers:
 
+## Skills
 
 I work mainly with `Python`, `Django` and `Vue.js`. My skills include:
 
@@ -30,122 +31,196 @@ I work mainly with `Python`, `Django` and `Vue.js`. My skills include:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/foundation/foundation-original-wordmark.svg" width="50" height="50" />
 </p>
 
+## Projects
 
 I like to write reusable code. I published and actively maintain many **open-source** libraries:
 
 <table>
     <tbody>
         <tr>
-            <td><a href="https://github.com/fabiocaccamo/FCUUID">FCUUID</a></td>
-            <td><img src="https://img.shields.io/github/stars/fabiocaccamo/FCUUID" /></td>
-            <td><img src="https://img.shields.io/github/forks/fabiocaccamo/FCUUID" /></td>
-            <td><img src="https://img.shields.io/github/issues/fabiocaccamo/FCUUID" /></td>
-            <td><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/FCUUID" /></td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCUUID">FCUUID</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCUUID"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCUUID" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCUUID/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCUUID" /></a>
+            </td>
         </tr>
         <tr>
-            <td><a href="https://github.com/fabiocaccamo/django-admin-interface">django-admin-interface</a></td>
-            <td><img src="https://img.shields.io/github/stars/fabiocaccamo/django-admin-interface" /></td>
-            <td><img src="https://img.shields.io/github/forks/fabiocaccamo/django-admin-interface" /></td>
-            <td><img src="https://img.shields.io/github/issues/fabiocaccamo/django-admin-interface" /></td>
-            <td><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-admin-interface" /></td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-admin-interface">django-admin-interface</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-admin-interface"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-admin-interface" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-admin-interface/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-admin-interface" /></a>
+            </td>
         </tr>
         <tr>
-            <td><a href="https://github.com/fabiocaccamo/FCFileManager">FCFileManager</a></td>
-            <td><img src="https://img.shields.io/github/stars/fabiocaccamo/FCFileManager" /></td>
-            <td><img src="https://img.shields.io/github/forks/fabiocaccamo/FCFileManager" /></td>
-            <td><img src="https://img.shields.io/github/issues/fabiocaccamo/FCFileManager" /></td>
-            <td><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/FCFileManager" /></td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCFileManager">FCFileManager</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCFileManager"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCFileManager" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCFileManager/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCFileManager" /></a>
+            </td>
         </tr>
         <tr>
-            <td><a href="https://github.com/fabiocaccamo/django-colorfield">django-colorfield</a></td>
-            <td><img src="https://img.shields.io/github/stars/fabiocaccamo/django-colorfield" /></td>
-            <td><img src="https://img.shields.io/github/forks/fabiocaccamo/django-colorfield" /></td>
-            <td><img src="https://img.shields.io/github/issues/fabiocaccamo/django-colorfield" /></td>
-            <td><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-colorfield" /></td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-colorfield">django-colorfield</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-colorfield"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-colorfield" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-colorfield/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-colorfield" /></a>
+            </td>
         </tr>
         <tr>
-            <td><a href="https://github.com/fabiocaccamo/python-benedict">python-benedict</a></td>
-            <td><img src="https://img.shields.io/github/stars/fabiocaccamo/python-benedict" /></td>
-            <td><img src="https://img.shields.io/github/forks/fabiocaccamo/python-benedict" /></td>
-            <td><img src="https://img.shields.io/github/issues/fabiocaccamo/python-benedict" /></td>
-            <td><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/python-benedict" /></td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/python-benedict">python-benedict</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/python-benedict"><img src="https://img.shields.io/github/stars/fabiocaccamo/python-benedict" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/python-benedict/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/python-benedict" /></a>
+            </td>
         </tr>
         <tr>
-            <td><a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder">FCCurrentLocationGeocoder</a></td>
-            <td><img src="https://img.shields.io/github/stars/fabiocaccamo/FCCurrentLocationGeocoder" /></td>
-            <td><img src="https://img.shields.io/github/forks/fabiocaccamo/FCCurrentLocationGeocoder" /></td>
-            <td><img src="https://img.shields.io/github/issues/fabiocaccamo/FCCurrentLocationGeocoder" /></td>
-            <td><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/FCCurrentLocationGeocoder" /></td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder">FCCurrentLocationGeocoder</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCCurrentLocationGeocoder" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCCurrentLocationGeocoder" /></a>
+            </td>
         </tr>
         <tr>
-            <td><a href="https://github.com/fabiocaccamo/django-maintenance-mode">django-maintenance-mode</a></td>
-            <td><img src="https://img.shields.io/github/stars/fabiocaccamo/django-maintenance-mode" /></td>
-            <td><img src="https://img.shields.io/github/forks/fabiocaccamo/django-maintenance-mode" /></td>
-            <td><img src="https://img.shields.io/github/issues/fabiocaccamo/django-maintenance-mode" /></td>
-            <td><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-maintenance-mode" /></td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-treenode">django-treenode</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-treenode"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-treenode" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-treenode/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-treenode" /></a>
+            </td>
         </tr>
         <tr>
-            <td><a href="https://github.com/fabiocaccamo/django-treenode">django-treenode</a></td>
-            <td><img src="https://img.shields.io/github/stars/fabiocaccamo/django-treenode" /></td>
-            <td><img src="https://img.shields.io/github/forks/fabiocaccamo/django-treenode" /></td>
-            <td><img src="https://img.shields.io/github/issues/fabiocaccamo/django-treenode" /></td>
-            <td><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-treenode" /></td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-maintenance-mode">django-maintenance-mode</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-maintenance-mode"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-maintenance-mode" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-maintenance-mode/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-maintenance-mode" /></a>
+            </td>
         </tr>
         <tr>
-            <td><a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder">FCIPAddressGeocoder</a></td>
-            <td><img src="https://img.shields.io/github/stars/fabiocaccamo/FCIPAddressGeocoder" /></td>
-            <td><img src="https://img.shields.io/github/forks/fabiocaccamo/FCIPAddressGeocoder" /></td>
-            <td><img src="https://img.shields.io/github/issues/fabiocaccamo/FCIPAddressGeocoder" /></td>
-            <td><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/FCIPAddressGeocoder" /></td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-extra-settings">django-extra-settings</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-extra-settings"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-extra-settings" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-extra-settings/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-extra-settings" /></a>
+            </td>
         </tr>
         <tr>
-            <td><a href="https://github.com/fabiocaccamo/django-extra-settings">django-extra-settings</a></td>
-            <td><img src="https://img.shields.io/github/stars/fabiocaccamo/django-extra-settings" /></td>
-            <td><img src="https://img.shields.io/github/forks/fabiocaccamo/django-extra-settings" /></td>
-            <td><img src="https://img.shields.io/github/issues/fabiocaccamo/django-extra-settings" /></td>
-            <td><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-extra-settings" /></td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder">FCIPAddressGeocoder</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCIPAddressGeocoder" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCIPAddressGeocoder" /></a>
+            </td>
         </tr>
         <tr>
-            <td><a href="https://github.com/fabiocaccamo/python-fsutil">python-fsutil</a></td>
-            <td><img src="https://img.shields.io/github/stars/fabiocaccamo/python-fsutil" /></td>
-            <td><img src="https://img.shields.io/github/forks/fabiocaccamo/python-fsutil" /></td>
-            <td><img src="https://img.shields.io/github/issues/fabiocaccamo/python-fsutil" /></td>
-            <td><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/python-fsutil" /></td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/python-fsutil">python-fsutil</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/python-fsutil"><img src="https://img.shields.io/github/stars/fabiocaccamo/python-fsutil" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/python-fsutil/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/python-fsutil" /></a>
+            </td>
         </tr>
         <tr>
-            <td><a href="https://github.com/fabiocaccamo/django-freeze">django-freeze</a></td>
-            <td><img src="https://img.shields.io/github/stars/fabiocaccamo/django-freeze" /></td>
-            <td><img src="https://img.shields.io/github/forks/fabiocaccamo/django-freeze" /></td>
-            <td><img src="https://img.shields.io/github/issues/fabiocaccamo/django-freeze" /></td>
-            <td><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-freeze" /></td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-freeze">django-freeze</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-freeze"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-freeze" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-freeze/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-freeze" /></a>
+            </td>
         </tr>
         <tr>
-            <td><a href="https://github.com/fabiocaccamo/python-codicefiscale">python-codicefiscale</a></td>
-            <td><img src="https://img.shields.io/github/stars/fabiocaccamo/python-codicefiscale" /></td>
-            <td><img src="https://img.shields.io/github/forks/fabiocaccamo/python-codicefiscale" /></td>
-            <td><img src="https://img.shields.io/github/issues/fabiocaccamo/python-codicefiscale" /></td>
-            <td><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/python-codicefiscale" /></td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/python-codicefiscale">python-codicefiscale</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/python-codicefiscale"><img src="https://img.shields.io/github/stars/fabiocaccamo/python-codicefiscale" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/python-codicefiscale/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/python-codicefiscale" /></a>
+            </td>
         </tr>
         <tr>
-            <td><a href="https://github.com/fabiocaccamo/django-redirects">django-redirects</a></td>
-            <td><img src="https://img.shields.io/github/stars/fabiocaccamo/django-redirects" /></td>
-            <td><img src="https://img.shields.io/github/forks/fabiocaccamo/django-redirects" /></td>
-            <td><img src="https://img.shields.io/github/issues/fabiocaccamo/django-redirects" /></td>
-            <td><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-redirects" /></td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-redirects">django-redirects</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-redirects"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-redirects" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-redirects/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-redirects" /></a>
+            </td>
         </tr>
         <tr>
-            <td><a href="https://github.com/fabiocaccamo/utils.js">utils.js</a></td>
-            <td><img src="https://img.shields.io/github/stars/fabiocaccamo/utils.js" /></td>
-            <td><img src="https://img.shields.io/github/forks/fabiocaccamo/utils.js" /></td>
-            <td><img src="https://img.shields.io/github/issues/fabiocaccamo/utils.js" /></td>
-            <td><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/utils.js" /></td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/utils.js">utils.js</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/utils.js"><img src="https://img.shields.io/github/stars/fabiocaccamo/utils.js" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/utils.js/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/utils.js" /></a>
+            </td>
         </tr>
         <tr>
-            <td><a href="https://github.com/fabiocaccamo/python-fontbro">python-fontbro</a></td>
-            <td><img src="https://img.shields.io/github/stars/fabiocaccamo/python-fontbro" /></td>
-            <td><img src="https://img.shields.io/github/forks/fabiocaccamo/python-fontbro" /></td>
-            <td><img src="https://img.shields.io/github/issues/fabiocaccamo/python-fontbro" /></td>
-            <td><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/python-fontbro" /></td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/python-fontbro">python-fontbro</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/python-fontbro"><img src="https://img.shields.io/github/stars/fabiocaccamo/python-fontbro" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/python-fontbro/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/python-fontbro" /></a>
+            </td>
         </tr>
     </tbody>
 </table>
+
+## Sponsors
+
+A special **thank you** to all the people who appreciate my work and decided to sponsor me. 
+
+It is indeed a great encouragement and keep me more motivated. :heart_on_fire:
+
+<a href="https://github.com/hudgeon" title="Doug Hudgeon"><img src="https://avatars.githubusercontent.com/u/4327239" width="50" height="50"></a>
+<a href="https://github.com/VaeterchenFrost" title="Martin Röbke"><img src="https://avatars.githubusercontent.com/u/21226535" width="50" height="50"></a>
