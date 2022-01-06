@@ -218,9 +218,9 @@ I like to write reusable code. I published and actively maintain many **open-sou
 
 ## Sponsors
 
-A special **thank you** to all the people who appreciate my work and decided to sponsor me. 
+Being sponsored is a great encouragement and keep me more motivated. :heart_on_fire: 
 
-It is indeed a great encouragement and keep me more motivated. :heart_on_fire:
+**Thank you** to all the people who appreciate my work and sponsor me:
 
-<a href="https://github.com/hudgeon" title="Doug Hudgeon"><img src="https://avatars.githubusercontent.com/u/4327239" width="50" height="50"></a>
-<a href="https://github.com/VaeterchenFrost" title="Martin Röbke"><img src="https://avatars.githubusercontent.com/u/21226535" width="50" height="50"></a>
+<a href="https://github.com/hudgeon" title="Doug Hudgeon"><img src="https://avatars.githubusercontent.com/u/4327239" width="40" height="40"></a>
+<a href="https://github.com/VaeterchenFrost" title="Martin Röbke"><img src="https://avatars.githubusercontent.com/u/21226535" width="40" height="40"></a>
