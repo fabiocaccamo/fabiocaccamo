@@ -2,7 +2,10 @@
 
 My name is **Fabio Caccamo**.
 
-I'm a passionate, self-taught, perfectionist 🧐 full-stack **developer** based in Torino, Italy. :it: :pinched_fingers:
+I'm a passionate, self-taught **full-stack developer** based in **Torino, Italy**. :it: :pinched_fingers:
+
+I'm a perfectionist and I have a keen eye for details. 🧐 
+
 
 ## Skills
 
@@ -31,9 +34,9 @@ I work mainly with `Python`, `Django` and `Vue.js`. My skills include:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/foundation/foundation-original-wordmark.svg" width="50" height="50" />
 </p>
 
-## Projects
+## Open-Source
 
-I like to write reusable code. I published and actively maintain many **open-source** libraries:
+I like to write reusable code, I published and actively maintain many **open-source** libraries. 📦
 
 <table>
     <tbody>
