@@ -75,17 +75,6 @@ I like to write reusable code, I published and actively maintain many **open-sou
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/fabiocaccamo/django-colorfield">django-colorfield</a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/django-colorfield"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-colorfield" /></a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/django-colorfield/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-colorfield" /></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
                 <a href="https://github.com/fabiocaccamo/python-benedict">python-benedict</a>
             </td>
             <td>
@@ -93,6 +82,17 @@ I like to write reusable code, I published and actively maintain many **open-sou
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/python-benedict/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/python-benedict" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-colorfield">django-colorfield</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-colorfield"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-colorfield" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-colorfield/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-colorfield" /></a>
             </td>
         </tr>
         <tr>
