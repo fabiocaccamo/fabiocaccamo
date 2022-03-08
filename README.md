@@ -1,8 +1,3 @@
-[![](https://img.shields.io/github/stars/fabiocaccamo?color=blue&logo=github&label=github%20stars)](https://github.com/fabiocaccamo/fabiocaccamo)
-[![](https://img.shields.io/github/sponsors/fabiocaccamo?color=blueviolet&logo=github&logoColor=white&label=github%20sponsors)](https://github.com/sponsors/fabiocaccamo)
-[![](https://img.shields.io/stackexchange/stackoverflow/r/2096218?color=orange&logo=stackoverflow&logoColor=orange&label=stackoverflow%20reputation)](https://stackoverflow.com/users/2096218/fabio-caccamo)
-[![](https://img.shields.io/twitter/follow/fabiocaccamo)](https://twitter.com/fabiocaccamo)
-
 # Hello! :wave: 
 
 My name is **Fabio Caccamo**.
@@ -39,6 +34,8 @@ I work mainly with `Python`, `Django` and `Vue.js`. My skills include:
 </p>
 
 ## Open-Source 
+
+[![](https://img.shields.io/github/stars/fabiocaccamo?color=blue&logo=github&label=github%20stars)](https://github.com/fabiocaccamo/fabiocaccamo)
 
 I like to write reusable code, I published and actively maintain many **open-source** libraries. 📦
 
@@ -225,9 +222,15 @@ I like to write reusable code, I published and actively maintain many **open-sou
 
 ## Sponsors
 
+[![](https://img.shields.io/github/sponsors/fabiocaccamo?color=blueviolet&logo=github&logoColor=white&label=github%20sponsors)](https://github.com/sponsors/fabiocaccamo)
+
 Being sponsored is a great encouragement and keep me more motivated. :heart_on_fire: 
 
 **Thank you** to all the people who appreciate my work and sponsor me:
 
 <a href="https://github.com/hudgeon" title="Doug Hudgeon"><img src="https://avatars.githubusercontent.com/u/4327239" width="40" height="40"></a>
 <a href="https://github.com/VaeterchenFrost" title="Martin Röbke"><img src="https://avatars.githubusercontent.com/u/21226535" width="40" height="40"></a>
+
+---
+
+[![](https://img.shields.io/twitter/follow/fabiocaccamo)](https://twitter.com/fabiocaccamo)
