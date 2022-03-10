@@ -6,6 +6,8 @@ I'm a passionate, self-taught **full-stack developer** based in **Torino, Italy*
 
 I'm a perfectionist and I have a keen eye for details. 🧐 
 
+[![](https://img.shields.io/twitter/follow/fabiocaccamo)](https://twitter.com/fabiocaccamo)
+
 ## Skills
 
 I work mainly with `Python`, `Django` and `Vue.js`. My skills include:
@@ -208,6 +210,17 @@ I like to write reusable code, I published and actively maintain many **open-sou
         </tr>
         <tr>
             <td>
+                <a href="https://github.com/fabiocaccamo/create-matrix-action">create-matrix-action</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/create-matrix-action"><img src="https://img.shields.io/github/stars/fabiocaccamo/create-matrix-action" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/create-matrix-action/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/create-matrix-action" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://github.com/fabiocaccamo/python-fontbro">python-fontbro</a>
             </td>
             <td>
@@ -230,7 +243,3 @@ Being sponsored is a great encouragement and keep me more motivated. :heart_on_f
 
 <a href="https://github.com/hudgeon" title="Doug Hudgeon"><img src="https://avatars.githubusercontent.com/u/4327239" width="40" height="40"></a>
 <a href="https://github.com/VaeterchenFrost" title="Martin Röbke"><img src="https://avatars.githubusercontent.com/u/21226535" width="40" height="40"></a>
-
----
-
-[![](https://img.shields.io/twitter/follow/fabiocaccamo)](https://twitter.com/fabiocaccamo)
