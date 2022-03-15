@@ -37,7 +37,7 @@ I work mainly with `Python`, `Django` and `Vue.js`. My skills include:
 
 ## Open-Source 
 
-[![](https://img.shields.io/github/stars/fabiocaccamo?color=blue&logo=github&label=github%20stars)](https://github.com/fabiocaccamo/fabiocaccamo)
+[![](https://img.shields.io/github/stars/fabiocaccamo?color=blueviolet&logo=github&label=github%20stars)](https://github.com/fabiocaccamo/fabiocaccamo)
 
 I like to write reusable code, I published and actively maintain many **open-source** libraries. 📦
 
