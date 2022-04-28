@@ -100,17 +100,6 @@ I like to write reusable code, I published and actively maintain many **open-sou
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder">FCCurrentLocationGeocoder</a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCCurrentLocationGeocoder" /></a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCCurrentLocationGeocoder" /></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
                 <a href="https://github.com/fabiocaccamo/django-treenode">django-treenode</a>
             </td>
             <td>
@@ -118,6 +107,17 @@ I like to write reusable code, I published and actively maintain many **open-sou
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-treenode/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-treenode" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder">FCCurrentLocationGeocoder</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCCurrentLocationGeocoder" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCCurrentLocationGeocoder" /></a>
             </td>
         </tr>
         <tr>
@@ -210,17 +210,6 @@ I like to write reusable code, I published and actively maintain many **open-sou
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/fabiocaccamo/create-matrix-action">create-matrix-action</a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/create-matrix-action/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/create-matrix-action" /></a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/create-matrix-action/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/create-matrix-action" /></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
                 <a href="https://github.com/fabiocaccamo/python-fontbro">python-fontbro</a>
             </td>
             <td>
@@ -228,6 +217,17 @@ I like to write reusable code, I published and actively maintain many **open-sou
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/python-fontbro/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/python-fontbro" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/fabiocaccamo/create-matrix-action">create-matrix-action</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/create-matrix-action/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/create-matrix-action" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/create-matrix-action/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/create-matrix-action" /></a>
             </td>
         </tr>
     </tbody>
