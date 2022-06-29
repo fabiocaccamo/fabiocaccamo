@@ -1,46 +1,23 @@
+[![](https://img.shields.io/github/stars/fabiocaccamo?color=yellow&logo=github&label=GitHub%20stars)](https://github.com/fabiocaccamo)
+[![](https://img.shields.io/github/sponsors/fabiocaccamo?color=blueviolet&logo=github&logoColor=white&label=GitHub%20sponsors)](https://github.com/sponsors/fabiocaccamo)
+[![](https://img.shields.io/twitter/follow/fabiocaccamo?color=blue&label=Twitter%20%40fabiocaccamo&logo=twitter&style=social)](https://twitter.com/fabiocaccamo)
+
 # Hello! :wave: 
 
 My name is **Fabio Caccamo**.
 
-I'm a passionate, self-taught **full-stack developer** based in **Torino, Italy**. :it: :pinched_fingers:
-
+I'm a passionate, self-taught **full-stack developer** based in **Torino, Italy**. :it: :pinched_fingers: <br>
 I'm a perfectionist and I have a keen eye for details. 🧐 
-
-[![](https://img.shields.io/twitter/follow/fabiocaccamo)](https://twitter.com/fabiocaccamo)
-
-## Skills
-
-I work mainly with `Python`, `Django` and `Vue.js`. My skills include:
-
-<p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original-wordmark.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/foundation/foundation-original-wordmark.svg" width="50" height="50" />
-</p>
 
 ## Open-Source 
 
-[![](https://img.shields.io/github/stars/fabiocaccamo?color=blueviolet&logo=github&label=github%20stars)](https://github.com/fabiocaccamo)
+I work mainly with `Python`, `Django` and `Vue.js` and I like to write reusable code. 📦<br>
+I published and actively maintain many **Open-Source** libraries. :sparkling_heart:
 
-I like to write reusable code, I published and actively maintain many **open-source** libraries. 📦
+### Libraries
 
+<details><summary>View all my libraries</summary>
+<p>
 <table>
     <tbody>
         <tr>
@@ -53,6 +30,9 @@ I like to write reusable code, I published and actively maintain many **open-sou
             <td>
                 <a href="https://github.com/fabiocaccamo/FCUUID/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCUUID" /></a>
             </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCUUID/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/FCUUID" /></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -63,6 +43,9 @@ I like to write reusable code, I published and actively maintain many **open-sou
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-admin-interface/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-admin-interface" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-admin-interface/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-admin-interface" /></a>
             </td>
         </tr>
         <tr>
@@ -75,6 +58,9 @@ I like to write reusable code, I published and actively maintain many **open-sou
             <td>
                 <a href="https://github.com/fabiocaccamo/FCFileManager/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCFileManager" /></a>
             </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCFileManager/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/FCFileManager" /></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -85,6 +71,9 @@ I like to write reusable code, I published and actively maintain many **open-sou
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/python-benedict/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/python-benedict" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/python-benedict/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/python-benedict" /></a>
             </td>
         </tr>
         <tr>
@@ -97,6 +86,9 @@ I like to write reusable code, I published and actively maintain many **open-sou
             <td>
                 <a href="https://github.com/fabiocaccamo/django-colorfield/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-colorfield" /></a>
             </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-colorfield/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-colorfield" /></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -107,6 +99,9 @@ I like to write reusable code, I published and actively maintain many **open-sou
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-treenode/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-treenode" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-treenode/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-treenode" /></a>
             </td>
         </tr>
         <tr>
@@ -119,6 +114,9 @@ I like to write reusable code, I published and actively maintain many **open-sou
             <td>
                 <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCCurrentLocationGeocoder" /></a>
             </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/FCCurrentLocationGeocoder" /></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -129,6 +127,9 @@ I like to write reusable code, I published and actively maintain many **open-sou
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-maintenance-mode/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-maintenance-mode" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-maintenance-mode/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-maintenance-mode" /></a>
             </td>
         </tr>
         <tr>
@@ -141,6 +142,9 @@ I like to write reusable code, I published and actively maintain many **open-sou
             <td>
                 <a href="https://github.com/fabiocaccamo/django-extra-settings/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-extra-settings" /></a>
             </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-extra-settings/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-extra-settings" /></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -151,6 +155,9 @@ I like to write reusable code, I published and actively maintain many **open-sou
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCIPAddressGeocoder" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/FCIPAddressGeocoder" /></a>
             </td>
         </tr>
         <tr>
@@ -163,6 +170,9 @@ I like to write reusable code, I published and actively maintain many **open-sou
             <td>
                 <a href="https://github.com/fabiocaccamo/python-fsutil/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/python-fsutil" /></a>
             </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/python-fsutil/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/python-fsutil" /></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -173,6 +183,9 @@ I like to write reusable code, I published and actively maintain many **open-sou
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-freeze/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-freeze" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-freeze/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-freeze" /></a>
             </td>
         </tr>
         <tr>
@@ -185,6 +198,9 @@ I like to write reusable code, I published and actively maintain many **open-sou
             <td>
                 <a href="https://github.com/fabiocaccamo/python-codicefiscale/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/python-codicefiscale" /></a>
             </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/python-codicefiscale/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/python-codicefiscale" /></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -196,16 +212,8 @@ I like to write reusable code, I published and actively maintain many **open-sou
             <td>
                 <a href="https://github.com/fabiocaccamo/django-redirects/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-redirects" /></a>
             </td>
-        </tr>
-        <tr>
             <td>
-                <a href="https://github.com/fabiocaccamo/utils.js">utils.js</a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/utils.js/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/utils.js" /></a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/utils.js/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/utils.js" /></a>
+                <a href="https://github.com/fabiocaccamo/django-redirects/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-redirects" /></a>
             </td>
         </tr>
         <tr>
@@ -218,6 +226,23 @@ I like to write reusable code, I published and actively maintain many **open-sou
             <td>
                 <a href="https://github.com/fabiocaccamo/python-fontbro/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/python-fontbro" /></a>
             </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/python-fontbro/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/python-fontbro" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/fabiocaccamo/utils.js">utils.js</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/utils.js/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/utils.js" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/utils.js/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/utils.js" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/utils.js/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/utils.js" /></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -229,15 +254,17 @@ I like to write reusable code, I published and actively maintain many **open-sou
             <td>
                 <a href="https://github.com/fabiocaccamo/create-matrix-action/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/create-matrix-action" /></a>
             </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/create-matrix-action/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/create-matrix-action" /></a>
+            </td>
         </tr>
     </tbody>
 </table>
+</p>
+</details>
 
-## Sponsors
-
-[![](https://img.shields.io/github/sponsors/fabiocaccamo?color=blueviolet&logo=github&logoColor=white&label=github%20sponsors)](https://github.com/sponsors/fabiocaccamo)
-
-Being sponsored is a great encouragement and keep me more motivated. :heart_on_fire: 
+### Sponsors
 
 <!-- <a href="https://github.com/hudgeon" title="Doug Hudgeon"><img src="https://avatars.githubusercontent.com/u/4327239" width="40" height="40"></a> -->
 <a href="https://github.com/VaeterchenFrost" title="Martin Röbke"><img src="https://avatars.githubusercontent.com/u/21226535" width="40" height="40"></a>
+<a href="https://github.com/github" title="GitHub"><img src="https://avatars.githubusercontent.com/u/9919?s=70&v=4" width="40" height="40"></a>
