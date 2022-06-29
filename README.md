@@ -9,12 +9,8 @@ My name is **Fabio Caccamo**.
 I'm a passionate, self-taught **full-stack developer** based in **Torino, Italy**. :it: :pinched_fingers: <br>
 I'm a perfectionist and I have a keen eye for details. 🧐 
 
-## Open-Source 
-
-I work mainly with `Python`, `Django` and `Vue.js` and I like to write reusable code. 📦<br>
-I published and actively maintain many **Open-Source** libraries. :sparkling_heart:
-
-### Libraries
+I work mainly with [`Python`](https://github.com/fabiocaccamo?tab=repositories&q=python-&type=source&language=&sort=stargazers), [`Django`](https://github.com/fabiocaccamo?tab=repositories&q=django-&type=source&language=&sort=stargazers) and `Vue.js` and I like to write reusable code. <br>
+I love **Open-Source**, I published and actively maintain many libraries. 📦
 
 <details><summary>View all my libraries</summary>
 <p>
@@ -263,7 +259,9 @@ I published and actively maintain many **Open-Source** libraries. :sparkling_hea
 </p>
 </details>
 
-### Sponsors
+---
+
+**Sponsors** :sparkling_heart:
 
 <!-- <a href="https://github.com/hudgeon" title="Doug Hudgeon"><img src="https://avatars.githubusercontent.com/u/4327239" width="40" height="40"></a> -->
 <a href="https://github.com/VaeterchenFrost" title="Martin Röbke"><img src="https://avatars.githubusercontent.com/u/21226535" width="40" height="40"></a>
