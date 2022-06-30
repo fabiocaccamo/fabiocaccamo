@@ -29,7 +29,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/FCUUID/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCUUID" /></a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/FCUUID/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/FCUUID" /></a>
+                <a href="https://github.com/fabiocaccamo/FCUUID/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/FCUUID" /></a>
             </td>
         </tr>
         <tr>
@@ -43,7 +43,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/django-admin-interface/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-admin-interface" /></a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/django-admin-interface/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-admin-interface" /></a>
+                <a href="https://github.com/fabiocaccamo/django-admin-interface/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-admin-interface" /></a>
             </td>
         </tr>
         <tr>
@@ -57,7 +57,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/FCFileManager/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCFileManager" /></a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/FCFileManager/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/FCFileManager" /></a>
+                <a href="https://github.com/fabiocaccamo/FCFileManager/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/FCFileManager" /></a>
             </td>
         </tr>
         <tr>
@@ -71,7 +71,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/python-benedict/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/python-benedict" /></a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/python-benedict/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/python-benedict" /></a>
+                <a href="https://github.com/fabiocaccamo/python-benedict/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/python-benedict" /></a>
             </td>
         </tr>
         <tr>
@@ -85,7 +85,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/django-colorfield/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-colorfield" /></a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/django-colorfield/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-colorfield" /></a>
+                <a href="https://github.com/fabiocaccamo/django-colorfield/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-colorfield" /></a>
             </td>
         </tr>
         <tr>
@@ -99,7 +99,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/django-treenode/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-treenode" /></a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/django-treenode/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-treenode" /></a>
+                <a href="https://github.com/fabiocaccamo/django-treenode/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-treenode" /></a>
             </td>
         </tr>
         <tr>
@@ -113,7 +113,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCCurrentLocationGeocoder" /></a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/FCCurrentLocationGeocoder" /></a>
+                <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/FCCurrentLocationGeocoder" /></a>
             </td>
         </tr>
         <tr>
@@ -127,7 +127,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/django-maintenance-mode/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-maintenance-mode" /></a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/django-maintenance-mode/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-maintenance-mode" /></a>
+                <a href="https://github.com/fabiocaccamo/django-maintenance-mode/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-maintenance-mode" /></a>
             </td>
         </tr>
         <tr>
@@ -141,7 +141,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/django-extra-settings/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-extra-settings" /></a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/django-extra-settings/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-extra-settings" /></a>
+                <a href="https://github.com/fabiocaccamo/django-extra-settings/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-extra-settings" /></a>
             </td>
         </tr>
         <tr>
@@ -155,7 +155,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCIPAddressGeocoder" /></a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/FCIPAddressGeocoder" /></a>
+                <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/FCIPAddressGeocoder" /></a>
             </td>
         </tr>
         <tr>
@@ -169,7 +169,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/python-fsutil/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/python-fsutil" /></a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/python-fsutil/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/python-fsutil" /></a>
+                <a href="https://github.com/fabiocaccamo/python-fsutil/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/python-fsutil" /></a>
             </td>
         </tr>
         <tr>
@@ -183,7 +183,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/django-freeze/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-freeze" /></a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/django-freeze/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-freeze" /></a>
+                <a href="https://github.com/fabiocaccamo/django-freeze/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-freeze" /></a>
             </td>
         </tr>
         <tr>
@@ -197,7 +197,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/python-codicefiscale/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/python-codicefiscale" /></a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/python-codicefiscale/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/python-codicefiscale" /></a>
+                <a href="https://github.com/fabiocaccamo/python-codicefiscale/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/python-codicefiscale" /></a>
             </td>
         </tr>
         <tr>
@@ -211,7 +211,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/django-redirects/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-redirects" /></a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/django-redirects/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-redirects" /></a>
+                <a href="https://github.com/fabiocaccamo/django-redirects/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-redirects" /></a>
             </td>
         </tr>
         <tr>
@@ -225,7 +225,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/python-fontbro/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/python-fontbro" /></a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/python-fontbro/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/python-fontbro" /></a>
+                <a href="https://github.com/fabiocaccamo/python-fontbro/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/python-fontbro" /></a>
             </td>
         </tr>
         <tr>
@@ -239,7 +239,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/utils.js/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/utils.js" /></a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/utils.js/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/utils.js" /></a>
+                <a href="https://github.com/fabiocaccamo/utils.js/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/utils.js" /></a>
             </td>
         </tr>
         <tr>
@@ -253,7 +253,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/create-matrix-action/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/create-matrix-action" /></a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/create-matrix-action/issues-pr"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/create-matrix-action" /></a>
+                <a href="https://github.com/fabiocaccamo/create-matrix-action/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/create-matrix-action" /></a>
             </td>
         </tr>
     </tbody>
