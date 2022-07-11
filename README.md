@@ -1,5 +1,6 @@
-[![](https://img.shields.io/github/stars/fabiocaccamo?color=yellow&logo=github&label=GitHub%20stars)](https://github.com/fabiocaccamo)
-[![](https://img.shields.io/github/sponsors/fabiocaccamo?color=blueviolet&logo=github&logoColor=white&label=GitHub%20sponsors)](https://github.com/sponsors/fabiocaccamo)
+[![](https://img.shields.io/github/stars/fabiocaccamo?color=black&logo=github&logoColor=white&label=GitHub%20stars)](https://github.com/fabiocaccamo)
+[![](https://img.shields.io/github/sponsors/fabiocaccamo?color=purple&logo=github&logoColor=white&label=GitHub%20sponsors)](https://github.com/sponsors/fabiocaccamo)
+[![](https://img.shields.io/github/followers/fabiocaccamo?color=blueviolet&label=GitHub%20followers&logo=github)](https://github.com/fabiocaccamo?tab=followers)
 [![](https://img.shields.io/twitter/follow/fabiocaccamo?color=blue&label=Twitter%20%40fabiocaccamo&logo=twitter&style=social)](https://twitter.com/fabiocaccamo)
 
 # Hello! :wave: 
@@ -20,7 +21,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/FCUUID">FCUUID</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/FCUUID/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCUUID" /></a>
+                <a href="https://github.com/fabiocaccamo/FCUUID/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCUUID?color=black" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/FCUUID/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCUUID" /></a>
@@ -34,7 +35,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/django-admin-interface">django-admin-interface</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/django-admin-interface/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-admin-interface" /></a>
+                <a href="https://github.com/fabiocaccamo/django-admin-interface/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-admin-interface?color=black" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-admin-interface/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-admin-interface" /></a>
@@ -48,7 +49,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/FCFileManager">FCFileManager</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/FCFileManager/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCFileManager" /></a>
+                <a href="https://github.com/fabiocaccamo/FCFileManager/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCFileManager?color=black" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/FCFileManager/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCFileManager" /></a>
@@ -62,7 +63,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/python-benedict">python-benedict</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/python-benedict/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/python-benedict" /></a>
+                <a href="https://github.com/fabiocaccamo/python-benedict/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/python-benedict?color=black" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/python-benedict/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/python-benedict" /></a>
@@ -76,7 +77,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/django-colorfield">django-colorfield</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/django-colorfield/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-colorfield" /></a>
+                <a href="https://github.com/fabiocaccamo/django-colorfield/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-colorfield?color=black" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-colorfield/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-colorfield" /></a>
@@ -90,7 +91,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/django-treenode">django-treenode</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/django-treenode/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-treenode" /></a>
+                <a href="https://github.com/fabiocaccamo/django-treenode/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-treenode?color=black" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-treenode/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-treenode" /></a>
@@ -104,7 +105,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder">FCCurrentLocationGeocoder</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCCurrentLocationGeocoder" /></a>
+                <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCCurrentLocationGeocoder?color=black" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCCurrentLocationGeocoder" /></a>
@@ -118,7 +119,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/django-maintenance-mode">django-maintenance-mode</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/django-maintenance-mode/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-maintenance-mode" /></a>
+                <a href="https://github.com/fabiocaccamo/django-maintenance-mode/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-maintenance-mode?color=black" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-maintenance-mode/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-maintenance-mode" /></a>
@@ -132,7 +133,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/django-extra-settings">django-extra-settings</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/django-extra-settings/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-extra-settings" /></a>
+                <a href="https://github.com/fabiocaccamo/django-extra-settings/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-extra-settings?color=black" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-extra-settings/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-extra-settings" /></a>
@@ -146,7 +147,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder">FCIPAddressGeocoder</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCIPAddressGeocoder" /></a>
+                <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCIPAddressGeocoder?color=black" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCIPAddressGeocoder" /></a>
@@ -160,7 +161,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/python-fsutil">python-fsutil</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/python-fsutil/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/python-fsutil" /></a>
+                <a href="https://github.com/fabiocaccamo/python-fsutil/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/python-fsutil?color=black" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/python-fsutil/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/python-fsutil" /></a>
@@ -174,7 +175,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/django-freeze">django-freeze</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/django-freeze/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-freeze" /></a>
+                <a href="https://github.com/fabiocaccamo/django-freeze/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-freeze?color=black" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-freeze/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-freeze" /></a>
@@ -188,7 +189,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/python-codicefiscale">python-codicefiscale</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/python-codicefiscale/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/python-codicefiscale" /></a>
+                <a href="https://github.com/fabiocaccamo/python-codicefiscale/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/python-codicefiscale?color=black" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/python-codicefiscale/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/python-codicefiscale" /></a>
@@ -202,7 +203,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/django-redirects">django-redirects</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/django-redirects/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-redirects" /></a>
+                <a href="https://github.com/fabiocaccamo/django-redirects/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-redirects?color=black" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-redirects/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-redirects" /></a>
@@ -216,7 +217,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/python-fontbro">python-fontbro</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/python-fontbro/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/python-fontbro" /></a>
+                <a href="https://github.com/fabiocaccamo/python-fontbro/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/python-fontbro?color=black" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/python-fontbro/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/python-fontbro" /></a>
@@ -230,7 +231,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/utils.js">utils.js</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/utils.js/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/utils.js" /></a>
+                <a href="https://github.com/fabiocaccamo/utils.js/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/utils.js?color=black" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/utils.js/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/utils.js" /></a>
@@ -244,7 +245,7 @@ My name is **Fabio Caccamo**.
                 <a href="https://github.com/fabiocaccamo/create-matrix-action">create-matrix-action</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/create-matrix-action/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/create-matrix-action" /></a>
+                <a href="https://github.com/fabiocaccamo/create-matrix-action/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/create-matrix-action?color=black" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/create-matrix-action/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/create-matrix-action" /></a>
