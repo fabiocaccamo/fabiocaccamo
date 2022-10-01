@@ -9,7 +9,7 @@ My name is **Fabio Caccamo**.
 
 - I'm a passionate, self-taught **full-stack developer** based in **Torino, Italy**. :it: :pinched_fingers: 
 - I'm a perfectionist and I have a keen eye for details. 🧐 
-- I work mainly with `Python`, `Django` and `Vue.js` and I like to write reusable code. 
+- I work mainly with `Python` :snake:, `Django` and `Vue.js` and I like to write reusable code. 
 - I love **Open-Source**, I published and actively maintain many libraries. 📦
 
 <details><summary>View all my libraries</summary>
@@ -17,6 +17,9 @@ My name is **Fabio Caccamo**.
 <table>
     <tbody>
         <tr>
+            <td>
+                :iphone:
+            </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/FCUUID">FCUUID</a>
             </td>
@@ -32,6 +35,9 @@ My name is **Fabio Caccamo**.
         </tr>
         <tr>
             <td>
+                :unicorn:
+            </td>
+            <td>
                 <a href="https://github.com/fabiocaccamo/django-admin-interface">django-admin-interface</a>
             </td>
             <td>
@@ -45,6 +51,9 @@ My name is **Fabio Caccamo**.
             </td>
         </tr>
         <tr>
+            <td>
+                :iphone:
+            </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/FCFileManager">FCFileManager</a>
             </td>
@@ -60,6 +69,9 @@ My name is **Fabio Caccamo**.
         </tr>
         <tr>
             <td>
+                :snake:
+            </td>
+            <td>
                 <a href="https://github.com/fabiocaccamo/python-benedict">python-benedict</a>
             </td>
             <td>
@@ -73,6 +85,9 @@ My name is **Fabio Caccamo**.
             </td>
         </tr>
         <tr>
+            <td>
+                :unicorn:
+            </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-colorfield">django-colorfield</a>
             </td>
@@ -88,6 +103,9 @@ My name is **Fabio Caccamo**.
         </tr>
         <tr>
             <td>
+                :unicorn:
+            </td>
+            <td>
                 <a href="https://github.com/fabiocaccamo/django-treenode">django-treenode</a>
             </td>
             <td>
@@ -101,6 +119,9 @@ My name is **Fabio Caccamo**.
             </td>
         </tr>
         <tr>
+            <td>
+                :iphone:
+            </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder">FCCurrentLocationGeocoder</a>
             </td>
@@ -116,6 +137,9 @@ My name is **Fabio Caccamo**.
         </tr>
         <tr>
             <td>
+                :unicorn:
+            </td>
+            <td>
                 <a href="https://github.com/fabiocaccamo/django-maintenance-mode">django-maintenance-mode</a>
             </td>
             <td>
@@ -129,6 +153,9 @@ My name is **Fabio Caccamo**.
             </td>
         </tr>
         <tr>
+            <td>
+                :unicorn:
+            </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-extra-settings">django-extra-settings</a>
             </td>
@@ -144,6 +171,9 @@ My name is **Fabio Caccamo**.
         </tr>
         <tr>
             <td>
+                :iphone:
+            </td>
+            <td>
                 <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder">FCIPAddressGeocoder</a>
             </td>
             <td>
@@ -157,6 +187,9 @@ My name is **Fabio Caccamo**.
             </td>
         </tr>
         <tr>
+            <td>
+                :snake:
+            </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/python-fsutil">python-fsutil</a>
             </td>
@@ -172,6 +205,9 @@ My name is **Fabio Caccamo**.
         </tr>
         <tr>
             <td>
+                :unicorn:
+            </td>
+            <td>
                 <a href="https://github.com/fabiocaccamo/django-freeze">django-freeze</a>
             </td>
             <td>
@@ -185,6 +221,9 @@ My name is **Fabio Caccamo**.
             </td>
         </tr>
         <tr>
+            <td>
+                :snake:
+            </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/python-codicefiscale">python-codicefiscale</a>
             </td>
@@ -200,6 +239,9 @@ My name is **Fabio Caccamo**.
         </tr>
         <tr>
             <td>
+                :unicorn:
+            </td>
+            <td>
                 <a href="https://github.com/fabiocaccamo/django-redirects">django-redirects</a>
             </td>
             <td>
@@ -213,6 +255,9 @@ My name is **Fabio Caccamo**.
             </td>
         </tr>
         <tr>
+            <td>
+                :snake:
+            </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/python-fontbro">python-fontbro</a>
             </td>
@@ -228,6 +273,9 @@ My name is **Fabio Caccamo**.
         </tr>
         <tr>
             <td>
+                :computer:
+            </td>
+            <td>
                 <a href="https://github.com/fabiocaccamo/utils.js">utils.js</a>
             </td>
             <td>
@@ -241,6 +289,9 @@ My name is **Fabio Caccamo**.
             </td>
         </tr>
         <tr>
+            <td>
+                :octocat:
+            </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/create-matrix-action">create-matrix-action</a>
             </td>
