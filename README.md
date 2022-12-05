@@ -3,7 +3,7 @@
 [![](https://img.shields.io/github/followers/fabiocaccamo?color=blueviolet&label=GitHub%20followers&logo=github)](https://github.com/fabiocaccamo?tab=followers)
 [![](https://img.shields.io/twitter/follow/fabiocaccamo?color=blue&label=Twitter%20%40fabiocaccamo&logo=twitter&style=social)](https://twitter.com/fabiocaccamo)
 
-# Hello! :wave: 
+# :wave: Hello! 
 
 My name is **Fabio Caccamo**.
 
@@ -13,7 +13,7 @@ I work mainly with :snake: `Python`, :unicorn: `Django` and `Vue.js`.
 
 I like to write reusable code. 📦
 
-<details><summary>I love **Open-Source**, I published and actively maintain many libraries.</summary>
+<details><summary>I love <strong>Open-Source</strong>, I published and actively maintain many libraries.</summary>
 <p>
 <table>
     <tbody>
