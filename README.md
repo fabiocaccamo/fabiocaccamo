@@ -11,10 +11,9 @@ I'm a passionate, self-taught **full-stack developer** based in **Torino, Italy*
 
 I work mainly with :snake: `Python`, :unicorn: `Django` and `Vue.js`.
 
-I love **Open-Source** and write reusable code.
-I published and actively maintain many libraries. 📦
+I like to write reusable code. 📦
 
-<details><summary>View all my libraries</summary>
+<details><summary>I love **Open-Source**, I published and actively maintain many libraries.</summary>
 <p>
 <table>
     <tbody>
