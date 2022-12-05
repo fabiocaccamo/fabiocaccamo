@@ -8,6 +8,7 @@
 My name is **Fabio Caccamo**.
 
 I'm a passionate, self-taught **full-stack developer** based in **Torino, Italy**. :it: :pinched_fingers: 
+
 I work mainly with :snake: `Python`, :unicorn: `Django` and `Vue.js`.
 
 I love **Open-Source** and write reusable code.
