@@ -4,10 +4,7 @@
 [![](https://img.shields.io/twitter/follow/fabiocaccamo?color=blue&label=Twitter%20%40fabiocaccamo&logo=twitter&style=social)](https://twitter.com/fabiocaccamo)
 
 # :wave: Hello!
-
-I'm a passionate, self-taught **full-stack developer** based in **Torino, Italy**. :it: :pinched_fingers: <br>
-I'm a perfectionist and I have a keen eye for details. 🧐 
-
+I'm Fabio Caccamo, a passionate, self-taught **full-stack developer** based in **Torino, Italy**. :it: :pinched_fingers: <br>
 I work mainly with :snake: `Python`, :unicorn: `Django`, `Vue.js`.<br>
 I love **Open Source**, I published and actively maintain many 📦 libraries.
 
