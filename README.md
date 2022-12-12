@@ -3,15 +3,13 @@
 [![](https://img.shields.io/github/followers/fabiocaccamo?color=blueviolet&label=GitHub%20followers&logo=github)](https://github.com/fabiocaccamo?tab=followers)
 [![](https://img.shields.io/twitter/follow/fabiocaccamo?color=blue&label=Twitter%20%40fabiocaccamo&logo=twitter&style=social)](https://twitter.com/fabiocaccamo)
 
-# :wave: Hello! 
+# :wave: Hello!
 
-My name is **Fabio Caccamo**.
+I'm a passionate, self-taught **full-stack developer** based in **Torino, Italy**. :it: :pinched_fingers: <br>
+I'm a perfectionist and I have a keen eye for details. 🧐 
 
-I'm a passionate, self-taught **full-stack developer** based in **Torino, Italy**. :it: :pinched_fingers: 
-
-I work mainly with :snake: `Python`, :unicorn: `Django`, `Vue.js` and I like to write reusable code.
-
-I love **Open-Source**, I published and actively maintain many libraries. 📦
+I work mainly with :snake: `Python`, :unicorn: `Django`, `Vue.js`.<br>
+I love **Open Source**, I published and actively maintain many 📦 libraries.
 
 <details><summary>View all my libraries</summary>
 <p>
