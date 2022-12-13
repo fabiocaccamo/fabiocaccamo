@@ -7,7 +7,7 @@
 ### I'm Fabio Caccamo.
 I'm a passionate, self-taught **full-stack developer** based in **Torino, Italy**. :it: :pinched_fingers:
 
-I work mainly with :snake: `Python`, :unicorn: `Django`, `Vue.js`.
+I work mainly with :snake: `Python`, :unicorn: `Django` and `Vue.js`.
 
 I love **Open Source**, I published and actively maintain many 📦 libraries.
 
