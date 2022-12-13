@@ -5,8 +5,10 @@
 
 # :wave: Hello!
 ### I'm Fabio Caccamo.
-I'm a passionate, self-taught **full-stack developer** based in **Torino, Italy**. :it: :pinched_fingers: <br>
-I work mainly with :snake: `Python`, :unicorn: `Django`, `Vue.js`.<br>
+I'm a passionate, self-taught **full-stack developer** based in **Torino, Italy**. :it: :pinched_fingers:
+
+I work mainly with :snake: `Python`, :unicorn: `Django`, `Vue.js`.
+
 I love **Open Source**, I published and actively maintain many 📦 libraries.
 
 <details><summary>View all my libraries</summary>
