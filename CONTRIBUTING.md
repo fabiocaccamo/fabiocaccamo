@@ -2,15 +2,6 @@
 
 **Everyone** is free to contribute, detailed issues and good quality pull requests are **always** :handshake: appreciated.
 
-## Contributing
-Contributions are always welcome, please follow these steps for submitting good quality PRs:
-
-- :exclamation: **Open an issue**, please don't submit any PR that doesn't refer to an existing issue.
-- :computer: **Work on changes**, changes should *preferably* be covered by tests to avoid regressions in the future.
-- :globe_with_meridians: **Update the translations** files.
-- :test_tube: **Run tests** ensuring that there are no errors.
-- :inbox_tray: **Submit a pull-request** and mark it as **"Ready for review"** only if it passes the `CI`.
-
 
 ##  Issues
 
