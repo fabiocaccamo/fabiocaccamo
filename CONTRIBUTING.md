@@ -7,7 +7,7 @@
 
 If you found a :ant: **bug** or want to suggest a :rocket: **new feature**, open an issue:
 
-- Ensure that it is **not a duplicate** of an existing issue
+- Ensure that it is **not a duplicate** of an existing issue.
 - **Fill the issue template** providing more informations as possible.
 
 
