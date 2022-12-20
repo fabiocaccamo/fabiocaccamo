@@ -1,6 +1,15 @@
 # Contributing
 
-**Everyone** is free to contribute, issues and pull requests are **always** :handshake: welcome.
+**Everyone** is free to contribute, detailed issues and good quality pull requests are **always** :handshake: appreciated.
+
+## Contributing
+Contributions are always welcome, please follow these steps for submitting good quality PRs:
+
+- :exclamation: **Open an issue**, please don't submit any PR that doesn't refer to an existing issue.
+- :computer: **Work on changes**, changes should *preferably* be covered by tests to avoid regressions in the future.
+- :globe_with_meridians: **Update the translations** files.
+- :test_tube: **Run tests** ensuring that there are no errors.
+- :inbox_tray: **Submit a pull-request** and mark it as **"Ready for review"** only if it passes the `CI`.
 
 
 ##  Issues
@@ -30,12 +39,13 @@ Considering that this is Open Source and not "free-code on demand", I work on ne
 
 ## Pull Requests
 
-Good :leftwards_arrow_with_hook: pull requests are appreciated and I review them as soon as I can.
+I review PRs as soon as I can, please follow these steps for submitting good quality PRs:
 
-Please, avoid wasting my :stopwatch: free time by complying these simple requests:
-
-- Don't submit a PR that doesn't refer to an :dart: issue.
-- Mark the PR as :ok_hand: **"ready for review"** only when it is complete and the :green_circle: CI pass.
+- **Open a issue** (if it doesn't exist yet) for the PR you intend to submit.
+- Changes should be **covered by tests** to avoid regressions in the :crystal_ball: future.
+- **Update the :globe_with_meridians: translations** files if the project has some.
+- **Run :test_tube: tests** ensuring that there are no errors.
+- **Submit a pull-request** referencing the related issue and mark it as :ok_hand: **"Ready for review"** only if it :green_circle: passes the `CI`.
 
 
 ## Priorities
