@@ -2,7 +2,7 @@
 
 Thank you for being here.
 
-As you probably already know contributing to Open Source takes a lot of time that is 💸 unpaid.
+As you probably already know, contributing to Open Source takes a lot of time that is 💸 unpaid.
 
 Many interesting projects stop being maintained 🧟 due to lack of funds / time, I would like to avoid that and continue keep my libraries 🚀 up to date in the future, **don't take it for granted.**
 
