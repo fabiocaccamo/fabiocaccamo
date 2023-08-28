@@ -304,6 +304,23 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
                 <a href="https://github.com/fabiocaccamo/create-matrix-action/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/create-matrix-action" /></a>
             </td>
         </tr>
+        <tr>
+            <td>
+                :computer:
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/tabbo.js">tabbo.js</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/tabbo.js/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/tabbo.js?color=black" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/tabbo.js/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/tabbo.js" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/tabbo.js/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/tabbo.js" /></a>
+            </td>
+        </tr>
     </tbody>
 </table>
 </p>
