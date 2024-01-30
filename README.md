@@ -123,23 +123,6 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
                 :unicorn:
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/django-maintenance-mode">django-maintenance-mode</a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/django-maintenance-mode/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-maintenance-mode?style=flat&color=black" /></a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/django-maintenance-mode/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-maintenance-mode?style=flat" /></a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/django-maintenance-mode/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-maintenance-mode?style=flat" /></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                :unicorn:
-            </td>
-            <td>
                 <a href="https://github.com/fabiocaccamo/django-extra-settings">django-extra-settings</a>
             </td>
             <td>
@@ -150,6 +133,23 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-extra-settings/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-extra-settings?style=flat" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                :unicorn:
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-maintenance-mode">django-maintenance-mode</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-maintenance-mode/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-maintenance-mode?style=flat&color=black" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-maintenance-mode/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-maintenance-mode?style=flat" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-maintenance-mode/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-maintenance-mode?style=flat" /></a>
             </td>
         </tr>
         <tr>
