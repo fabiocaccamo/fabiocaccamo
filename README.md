@@ -307,6 +307,23 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
         </tr>
         <tr>
             <td>
+                :unicorn:
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-cache-cleaner">django-cache-cleaner</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-cache-cleaner/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-cache-cleaner?style=flat&color=black" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-cache-cleaner/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-cache-cleaner?style=flat" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-cache-cleaner/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-cache-cleaner?style=flat" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 :computer:
             </td>
             <td>
