@@ -1,7 +1,6 @@
 [![](https://img.shields.io/github/stars/fabiocaccamo?style=flat&color=black&logo=github&logoColor=white&label=GitHub%20stars)](https://github.com/fabiocaccamo)
 [![](https://img.shields.io/github/sponsors/fabiocaccamo?style=flat&color=purple&logo=github&logoColor=white&label=GitHub%20sponsors)](https://github.com/sponsors/fabiocaccamo)
 [![](https://img.shields.io/github/followers/fabiocaccamo?style=flat&color=blueviolet&label=GitHub%20followers&logo=github)](https://github.com/fabiocaccamo?tab=followers)
-[![](https://img.shields.io/twitter/follow/fabiocaccamo?color=blue&label=Twitter%20%40fabiocaccamo&logo=twitter&style=flat)](https://twitter.com/fabiocaccamo)
 [![](https://polar.sh/embed/seeks-funding-shield.svg?org=fabiocaccamo)](https://polar.sh/fabiocaccamo)
 
 # :wave: Hello!
