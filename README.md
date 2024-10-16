@@ -23,7 +23,7 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
                 <a href="https://github.com/fabiocaccamo/django-admin-interface">django-admin-interface</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/django-admin-interface/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-admin-interface?style=flat&color=black" /></a>
+                <a href="https://github.com/fabiocaccamo/django-admin-interface/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-admin-interface?style=flat&color=black&label=%E2%AD%90" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-admin-interface/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-admin-interface?style=flat" /></a>
@@ -43,7 +43,7 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
                 <a href="https://github.com/fabiocaccamo/FCUUID">FCUUID</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/FCUUID/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCUUID?style=flat&color=black" /></a>
+                <a href="https://github.com/fabiocaccamo/FCUUID/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCUUID?style=flat&color=black&label=%E2%AD%90" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/FCUUID/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCUUID?style=flat" /></a>
@@ -63,7 +63,7 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
                 <a href="https://github.com/fabiocaccamo/python-benedict">python-benedict</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/python-benedict/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/python-benedict?style=flat&color=black" /></a>
+                <a href="https://github.com/fabiocaccamo/python-benedict/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/python-benedict?style=flat&color=black&label=%E2%AD%90" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/python-benedict/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/python-benedict?style=flat" /></a>
@@ -83,7 +83,7 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
                 <a href="https://github.com/fabiocaccamo/FCFileManager">FCFileManager</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/FCFileManager/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCFileManager?style=flat&color=black" /></a>
+                <a href="https://github.com/fabiocaccamo/FCFileManager/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCFileManager?style=flat&color=black&label=%E2%AD%90" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/FCFileManager/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCFileManager?style=flat" /></a>
@@ -103,7 +103,7 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
                 <a href="https://github.com/fabiocaccamo/django-treenode">django-treenode</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/django-treenode/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-treenode?style=flat&color=black" /></a>
+                <a href="https://github.com/fabiocaccamo/django-treenode/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-treenode?style=flat&color=black&label=%E2%AD%90" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-treenode/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-treenode?style=flat" /></a>
@@ -123,7 +123,7 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
                 <a href="https://github.com/fabiocaccamo/django-colorfield">django-colorfield</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/django-colorfield/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-colorfield?style=flat&color=black" /></a>
+                <a href="https://github.com/fabiocaccamo/django-colorfield/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-colorfield?style=flat&color=black&label=%E2%AD%90" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-colorfield/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-colorfield?style=flat" /></a>
@@ -143,7 +143,7 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
                 <a href="https://github.com/fabiocaccamo/django-extra-settings">django-extra-settings</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/django-extra-settings/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-extra-settings?style=flat&color=black" /></a>
+                <a href="https://github.com/fabiocaccamo/django-extra-settings/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-extra-settings?style=flat&color=black&label=%E2%AD%90" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-extra-settings/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-extra-settings?style=flat" /></a>
@@ -163,7 +163,7 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
                 <a href="https://github.com/fabiocaccamo/django-maintenance-mode">django-maintenance-mode</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/django-maintenance-mode/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-maintenance-mode?style=flat&color=black" /></a>
+                <a href="https://github.com/fabiocaccamo/django-maintenance-mode/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-maintenance-mode?style=flat&color=black&label=%E2%AD%90" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-maintenance-mode/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-maintenance-mode?style=flat" /></a>
@@ -183,7 +183,7 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
                 <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder">FCCurrentLocationGeocoder</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCCurrentLocationGeocoder?style=flat&color=black" /></a>
+                <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCCurrentLocationGeocoder?style=flat&color=black&label=%E2%AD%90" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCCurrentLocationGeocoder?style=flat" /></a>
@@ -203,7 +203,7 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
                 <a href="https://github.com/fabiocaccamo/python-fsutil">python-fsutil</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/python-fsutil/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/python-fsutil?style=flat&color=black" /></a>
+                <a href="https://github.com/fabiocaccamo/python-fsutil/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/python-fsutil?style=flat&color=black&label=%E2%AD%90" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/python-fsutil/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/python-fsutil?style=flat" /></a>
@@ -223,7 +223,7 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
                 <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder">FCIPAddressGeocoder</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCIPAddressGeocoder?style=flat&color=black" /></a>
+                <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCIPAddressGeocoder?style=flat&color=black&label=%E2%AD%90" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCIPAddressGeocoder?style=flat" /></a>
@@ -243,7 +243,7 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
                 <a href="https://github.com/fabiocaccamo/django-freeze">django-freeze</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/django-freeze/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-freeze?style=flat&color=black" /></a>
+                <a href="https://github.com/fabiocaccamo/django-freeze/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-freeze?style=flat&color=black&label=%E2%AD%90" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-freeze/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-freeze?style=flat" /></a>
@@ -263,7 +263,7 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
                 <a href="https://github.com/fabiocaccamo/python-codicefiscale">python-codicefiscale</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/python-codicefiscale/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/python-codicefiscale?style=flat&color=black" /></a>
+                <a href="https://github.com/fabiocaccamo/python-codicefiscale/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/python-codicefiscale?style=flat&color=black&label=%E2%AD%90" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/python-codicefiscale/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/python-codicefiscale?style=flat" /></a>
@@ -283,7 +283,7 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
                 <a href="https://github.com/fabiocaccamo/django-redirects">django-redirects</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/django-redirects/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-redirects?style=flat&color=black" /></a>
+                <a href="https://github.com/fabiocaccamo/django-redirects/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-redirects?style=flat&color=black&label=%E2%AD%90" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-redirects/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-redirects?style=flat" /></a>
@@ -303,7 +303,7 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
                 <a href="https://github.com/fabiocaccamo/python-fontbro">python-fontbro</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/python-fontbro/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/python-fontbro?style=flat&color=black" /></a>
+                <a href="https://github.com/fabiocaccamo/python-fontbro/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/python-fontbro?style=flat&color=black&label=%E2%AD%90" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/python-fontbro/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/python-fontbro?style=flat" /></a>
@@ -323,7 +323,7 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
                 <a href="https://github.com/fabiocaccamo/utils.js">utils.js</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/utils.js/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/utils.js?style=flat&color=black" /></a>
+                <a href="https://github.com/fabiocaccamo/utils.js/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/utils.js?style=flat&color=black&label=%E2%AD%90" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/utils.js/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/utils.js?style=flat" /></a>
@@ -343,7 +343,7 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
                 <a href="https://github.com/fabiocaccamo/django-cache-cleaner">django-cache-cleaner</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/django-cache-cleaner/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-cache-cleaner?style=flat&color=black" /></a>
+                <a href="https://github.com/fabiocaccamo/django-cache-cleaner/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-cache-cleaner?style=flat&color=black&label=%E2%AD%90" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-cache-cleaner/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-cache-cleaner?style=flat" /></a>
@@ -363,7 +363,7 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
                 <a href="https://github.com/fabiocaccamo/create-matrix-action">create-matrix-action</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/create-matrix-action/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/create-matrix-action?style=flat&color=black" /></a>
+                <a href="https://github.com/fabiocaccamo/create-matrix-action/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/create-matrix-action?style=flat&color=black&label=%E2%AD%90" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/create-matrix-action/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/create-matrix-action?style=flat" /></a>
@@ -383,7 +383,7 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
                 <a href="https://github.com/fabiocaccamo/tabbo.js">tabbo.js</a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/tabbo.js/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/tabbo.js?style=flat&color=black" /></a>
+                <a href="https://github.com/fabiocaccamo/tabbo.js/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/tabbo.js?style=flat&color=black&label=%E2%AD%90" /></a>
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/tabbo.js/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/tabbo.js?style=flat" /></a>
