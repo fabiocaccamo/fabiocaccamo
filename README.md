@@ -31,6 +31,9 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
             <td>
                 <a href="https://github.com/fabiocaccamo/django-admin-interface/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-admin-interface?style=flat" /></a>
             </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-admin-interface/actions"><img src="https://img.shields.io/github/actions/workflow/status/fabiocaccamo/django-admin-interface/test-package.yml?branch=main&label=build" /></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -47,6 +50,9 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/FCUUID/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/FCUUID?style=flat" /></a>
+            </td>
+            <td>
+                &ndash;
             </td>
         </tr>
         <tr>
@@ -65,6 +71,9 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
             <td>
                 <a href="https://github.com/fabiocaccamo/python-benedict/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/python-benedict?style=flat" /></a>
             </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/python-benedict/actions"><img src="https://img.shields.io/github/actions/workflow/status/fabiocaccamo/python-benedict/test-package.yml?branch=main&label=build" /></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -81,6 +90,9 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/FCFileManager/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/FCFileManager?style=flat" /></a>
+            </td>
+            <td>
+                &ndash;
             </td>
         </tr>
         <tr>
@@ -99,6 +111,9 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
             <td>
                 <a href="https://github.com/fabiocaccamo/django-treenode/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-treenode?style=flat" /></a>
             </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-treenode/actions"><img src="https://img.shields.io/github/actions/workflow/status/fabiocaccamo/django-treenode/test-package.yml?branch=main&label=build" /></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -115,6 +130,9 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-colorfield/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-colorfield?style=flat" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-colorfield/actions"><img src="https://img.shields.io/github/actions/workflow/status/fabiocaccamo/django-colorfield/test-package.yml?branch=main&label=build" /></a>
             </td>
         </tr>
         <tr>
@@ -133,6 +151,9 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
             <td>
                 <a href="https://github.com/fabiocaccamo/django-extra-settings/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-extra-settings?style=flat" /></a>
             </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-extra-settings/actions"><img src="https://img.shields.io/github/actions/workflow/status/fabiocaccamo/django-extra-settings/test-package.yml?branch=main&label=build" /></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -149,6 +170,9 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-maintenance-mode/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-maintenance-mode?style=flat" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-maintenance-mode/actions"><img src="https://img.shields.io/github/actions/workflow/status/fabiocaccamo/django-maintenance-mode/test-package.yml?branch=main&label=build" /></a>
             </td>
         </tr>
         <tr>
@@ -167,6 +191,9 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
             <td>
                 <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/FCCurrentLocationGeocoder?style=flat" /></a>
             </td>
+            <td>
+                &ndash;
+            </td>
         </tr>
         <tr>
             <td>
@@ -183,6 +210,9 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/python-fsutil/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/python-fsutil?style=flat" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/python-fsutil/actions"><img src="https://img.shields.io/github/actions/workflow/status/fabiocaccamo/python-fsutil/test-package.yml?branch=main&label=build" /></a>
             </td>
         </tr>
         <tr>
@@ -201,6 +231,9 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
             <td>
                 <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/FCIPAddressGeocoder?style=flat" /></a>
             </td>
+            <td>
+                &ndash;
+            </td>
         </tr>
         <tr>
             <td>
@@ -217,6 +250,9 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-freeze/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-freeze?style=flat" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-freeze/actions"><img src="https://img.shields.io/github/actions/workflow/status/fabiocaccamo/django-freeze/test-package.yml?branch=main&label=build" /></a>
             </td>
         </tr>
         <tr>
@@ -235,6 +271,9 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
             <td>
                 <a href="https://github.com/fabiocaccamo/python-codicefiscale/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/python-codicefiscale?style=flat" /></a>
             </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/python-codicefiscale/actions"><img src="https://img.shields.io/github/actions/workflow/status/fabiocaccamo/python-codicefiscale/test-package.yml?branch=main&label=build" /></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -251,6 +290,9 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-redirects/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-redirects?style=flat" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-redirects/actions"><img src="https://img.shields.io/github/actions/workflow/status/fabiocaccamo/django-redirects/test-package.yml?branch=main&label=build" /></a>
             </td>
         </tr>
         <tr>
@@ -269,6 +311,9 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
             <td>
                 <a href="https://github.com/fabiocaccamo/python-fontbro/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/python-fontbro?style=flat" /></a>
             </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/python-fontbro/actions"><img src="https://img.shields.io/github/actions/workflow/status/fabiocaccamo/python-fontbro/test-package.yml?branch=main&label=build" /></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -285,6 +330,9 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/utils.js/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/utils.js?style=flat" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/utils.js/actions"><img src="https://img.shields.io/github/actions/workflow/status/fabiocaccamo/utils.js/test-package.yml?branch=main&label=build" /></a>
             </td>
         </tr>
         <tr>
@@ -303,6 +351,9 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
             <td>
                 <a href="https://github.com/fabiocaccamo/django-cache-cleaner/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-cache-cleaner?style=flat" /></a>
             </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-cache-cleaner/actions"><img src="https://img.shields.io/github/actions/workflow/status/fabiocaccamo/django-cache-cleaner/test-package.yml?branch=main&label=build" /></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -320,6 +371,9 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
             <td>
                 <a href="https://github.com/fabiocaccamo/create-matrix-action/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/create-matrix-action?style=flat" /></a>
             </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/create-matrix-action/actions"><img src="https://img.shields.io/github/actions/workflow/status/fabiocaccamo/create-matrix-action/test-action.yml?branch=main&label=build" /></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -336,6 +390,9 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/tabbo.js/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/tabbo.js?style=flat" /></a>
+            </td>
+            <td>
+                &ndash;
             </td>
         </tr>
     </tbody>
