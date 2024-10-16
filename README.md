@@ -372,7 +372,7 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
                 <a href="https://github.com/fabiocaccamo/create-matrix-action/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/create-matrix-action?style=flat" /></a>
             </td>
             <td>
-                <a href="https://github.com/fabiocaccamo/create-matrix-action/actions"><img src="https://img.shields.io/github/actions/workflow/status/fabiocaccamo/create-matrix-action/test-action.yml?branch=main&label=build" /></a>
+                <a href="https://github.com/fabiocaccamo/create-matrix-action/actions"><img src="https://img.shields.io/github/actions/workflow/status/fabiocaccamo/create-matrix-action/test-action.yaml?branch=main&label=build" /></a>
             </td>
         </tr>
         <tr>
