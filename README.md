@@ -1,6 +1,6 @@
-[![](https://img.shields.io/github/stars/fabiocaccamo?style=flat&color=black&logo=github&logoColor=white&label=stars)](https://github.com/fabiocaccamo)
-[![](https://img.shields.io/github/sponsors/fabiocaccamo?style=flat&color=purple&logo=github&logoColor=white&label=sponsors)](https://github.com/sponsors/fabiocaccamo)
-[![](https://img.shields.io/github/followers/fabiocaccamo?style=flat&color=blueviolet&label=followers&logo=github)](https://github.com/fabiocaccamo?tab=followers)
+[![](https://img.shields.io/github/stars/fabiocaccamo?style=flat&color=black&logo=github&logoColor=white&label=stargazers)](https://github.com/fabiocaccamo)
+[![](https://img.shields.io/github/followers/fabiocaccamo?style=flat&color=purple&label=followers&logo=github)](https://github.com/fabiocaccamo?tab=followers)
+[![](https://img.shields.io/github/sponsors/fabiocaccamo?style=flat&color=blueviolet&logo=github&logoColor=white&label=sponsors)](https://github.com/sponsors/fabiocaccamo)
 
 # :wave: Hello!
 ### I'm Fabio Caccamo.
