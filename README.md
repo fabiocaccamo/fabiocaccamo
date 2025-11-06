@@ -453,6 +453,29 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
         </tr>
         <tr>
             <td>
+                :unicorn:
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-email-validators">django-email-validators</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-email-validators/releases"><img alt="Version" src="https://img.shields.io/github/v/release/fabiocaccamo/django-email-validators?style=flat&color=blue&label="></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-email-validators/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-email-validators?style=flat&color=black&label=%E2%AD%90" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-email-validators/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-email-validators?style=flat" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-email-validators/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-email-validators?style=flat" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-email-validators/actions"><img src="https://img.shields.io/github/actions/workflow/status/fabiocaccamo/django-email-validators/test-package.yml?branch=main&label=build" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
                 :computer:
             </td>
             <td>
