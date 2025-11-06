@@ -10,8 +10,6 @@ I work mainly with :snake: `Python`, :unicorn: `Django` and `Vue.js`.
 
 I love **Open Source**, I published and actively maintain many 📦 libraries.
 
-<details><summary>View all my libraries</summary>
-<p>
 <table>
     <tbody>
         <tr>
@@ -522,5 +520,3 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
         </tr>
     </tbody>
 </table>
-</p>
-</details>
