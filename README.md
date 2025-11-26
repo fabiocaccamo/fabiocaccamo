@@ -37,29 +37,6 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
         </tr>
         <tr>
             <td>
-                :iphone:
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/FCUUID">FCUUID</a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/FCUUID/releases"><img alt="Version" src="https://img.shields.io/github/v/release/fabiocaccamo/FCUUID?style=flat&color=blue&label="></a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/FCUUID/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCUUID?style=flat&color=black&label=%E2%AD%90" /></a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/FCUUID/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCUUID?style=flat" /></a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/FCUUID/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/FCUUID?style=flat" /></a>
-            </td>
-            <td>
-                &ndash;
-            </td>
-        </tr>
-        <tr>
-            <td>
                 :snake:
             </td>
             <td>
@@ -79,6 +56,29 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/python-benedict/actions"><img src="https://img.shields.io/github/actions/workflow/status/fabiocaccamo/python-benedict/test-package.yml?branch=main&label=build" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                :iphone:
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCUUID">FCUUID</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCUUID/releases"><img alt="Version" src="https://img.shields.io/github/v/release/fabiocaccamo/FCUUID?style=flat&color=blue&label="></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCUUID/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCUUID?style=flat&color=black&label=%E2%AD%90" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCUUID/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCUUID?style=flat" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCUUID/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/FCUUID?style=flat" /></a>
+            </td>
+            <td>
+                &ndash;
             </td>
         </tr>
         <tr>
@@ -359,29 +359,6 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
         </tr>
         <tr>
             <td>
-                :computer:
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/utils.js">utils.js</a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/utils.js/releases"><img alt="Version" src="https://img.shields.io/github/v/release/fabiocaccamo/utils.js?style=flat&color=blue&label="></a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/utils.js/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/utils.js?style=flat&color=black&label=%E2%AD%90" /></a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/utils.js/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/utils.js?style=flat" /></a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/utils.js/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/utils.js?style=flat" /></a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/utils.js/actions"><img src="https://img.shields.io/github/actions/workflow/status/fabiocaccamo/utils.js/test-package.yml?branch=main&label=build" /></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
                 :unicorn:
             </td>
             <td>
@@ -401,6 +378,29 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-cache-cleaner/actions"><img src="https://img.shields.io/github/actions/workflow/status/fabiocaccamo/django-cache-cleaner/test-package.yml?branch=main&label=build" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                :computer:
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/utils.js">utils.js</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/utils.js/releases"><img alt="Version" src="https://img.shields.io/github/v/release/fabiocaccamo/utils.js?style=flat&color=blue&label="></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/utils.js/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/utils.js?style=flat&color=black&label=%E2%AD%90" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/utils.js/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/utils.js?style=flat" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/utils.js/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/utils.js?style=flat" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/utils.js/actions"><img src="https://img.shields.io/github/actions/workflow/status/fabiocaccamo/utils.js/test-package.yml?branch=main&label=build" /></a>
             </td>
         </tr>
         <tr>
@@ -451,29 +451,6 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
         </tr>
         <tr>
             <td>
-                :unicorn:
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/django-email-validators">django-email-validators</a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/django-email-validators/releases"><img alt="Version" src="https://img.shields.io/github/v/release/fabiocaccamo/django-email-validators?style=flat&color=blue&label="></a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/django-email-validators/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-email-validators?style=flat&color=black&label=%E2%AD%90" /></a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/django-email-validators/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-email-validators?style=flat" /></a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/django-email-validators/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-email-validators?style=flat" /></a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/django-email-validators/actions"><img src="https://img.shields.io/github/actions/workflow/status/fabiocaccamo/django-email-validators/test-package.yml?branch=main&label=build" /></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
                 :computer:
             </td>
             <td>
@@ -493,6 +470,29 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
             </td>
             <td>
                 &ndash;
+            </td>
+        </tr>
+        <tr>
+            <td>
+                :unicorn:
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-email-validators">django-email-validators</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-email-validators/releases"><img alt="Version" src="https://img.shields.io/github/v/release/fabiocaccamo/django-email-validators?style=flat&color=blue&label="></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-email-validators/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/django-email-validators?style=flat&color=black&label=%E2%AD%90" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-email-validators/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/django-email-validators?style=flat" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-email-validators/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/django-email-validators?style=flat" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/django-email-validators/actions"><img src="https://img.shields.io/github/actions/workflow/status/fabiocaccamo/django-email-validators/test-package.yml?branch=main&label=build" /></a>
             </td>
         </tr>
         <tr>
