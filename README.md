@@ -198,29 +198,6 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
         </tr>
         <tr>
             <td>
-                :iphone:
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder">FCCurrentLocationGeocoder</a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder/releases"><img alt="Version" src="https://img.shields.io/github/v/release/fabiocaccamo/FCCurrentLocationGeocoder?style=flat&color=blue&label="></a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCCurrentLocationGeocoder?style=flat&color=black&label=%E2%AD%90" /></a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCCurrentLocationGeocoder?style=flat" /></a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/FCCurrentLocationGeocoder?style=flat" /></a>
-            </td>
-            <td>
-                &ndash;
-            </td>
-        </tr>
-        <tr>
-            <td>
                 :snake:
             </td>
             <td>
@@ -240,6 +217,29 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/python-fsutil/actions"><img src="https://img.shields.io/github/actions/workflow/status/fabiocaccamo/python-fsutil/test-package.yml?branch=main&label=build" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                :iphone:
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder">FCCurrentLocationGeocoder</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder/releases"><img alt="Version" src="https://img.shields.io/github/v/release/fabiocaccamo/FCCurrentLocationGeocoder?style=flat&color=blue&label="></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCCurrentLocationGeocoder?style=flat&color=black&label=%E2%AD%90" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCCurrentLocationGeocoder?style=flat" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCCurrentLocationGeocoder/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/FCCurrentLocationGeocoder?style=flat" /></a>
+            </td>
+            <td>
+                &ndash;
             </td>
         </tr>
         <tr>
@@ -451,29 +451,6 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
         </tr>
         <tr>
             <td>
-                :computer:
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/layers.css">layers.css</a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/layers.css/releases"><img alt="Version" src="https://img.shields.io/github/v/release/fabiocaccamo/layers.css?style=flat&color=blue&label="></a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/layers.css/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/layers.css?style=flat&color=black&label=%E2%AD%90" /></a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/layers.css/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/layers.css?style=flat" /></a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/layers.css/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/layers.css?style=flat" /></a>
-            </td>
-            <td>
-                &ndash;
-            </td>
-        </tr>
-        <tr>
-            <td>
                 :unicorn:
             </td>
             <td>
@@ -493,6 +470,29 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-email-validators/actions"><img src="https://img.shields.io/github/actions/workflow/status/fabiocaccamo/django-email-validators/test-package.yml?branch=main&label=build" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                :computer:
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/layers.css">layers.css</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/layers.css/releases"><img alt="Version" src="https://img.shields.io/github/v/release/fabiocaccamo/layers.css?style=flat&color=blue&label="></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/layers.css/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/layers.css?style=flat&color=black&label=%E2%AD%90" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/layers.css/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/layers.css?style=flat" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/layers.css/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/layers.css?style=flat" /></a>
+            </td>
+            <td>
+                &ndash;
             </td>
         </tr>
         <tr>
