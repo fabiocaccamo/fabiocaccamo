@@ -244,29 +244,6 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
         </tr>
         <tr>
             <td>
-                :iphone:
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder">FCIPAddressGeocoder</a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder/releases"><img alt="Version" src="https://img.shields.io/github/v/release/fabiocaccamo/FCIPAddressGeocoder?style=flat&color=blue&label="></a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCIPAddressGeocoder?style=flat&color=black&label=%E2%AD%90" /></a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCIPAddressGeocoder?style=flat" /></a>
-            </td>
-            <td>
-                <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/FCIPAddressGeocoder?style=flat" /></a>
-            </td>
-            <td>
-                &ndash;
-            </td>
-        </tr>
-        <tr>
-            <td>
                 :unicorn:
             </td>
             <td>
@@ -286,6 +263,29 @@ I love **Open Source**, I published and actively maintain many 📦 libraries.
             </td>
             <td>
                 <a href="https://github.com/fabiocaccamo/django-freeze/actions"><img src="https://img.shields.io/github/actions/workflow/status/fabiocaccamo/django-freeze/test-package.yml?branch=main&label=build" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                :iphone:
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder">FCIPAddressGeocoder</a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder/releases"><img alt="Version" src="https://img.shields.io/github/v/release/fabiocaccamo/FCIPAddressGeocoder?style=flat&color=blue&label="></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder/stargazers"><img src="https://img.shields.io/github/stars/fabiocaccamo/FCIPAddressGeocoder?style=flat&color=black&label=%E2%AD%90" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder/issues"><img src="https://img.shields.io/github/issues/fabiocaccamo/FCIPAddressGeocoder?style=flat" /></a>
+            </td>
+            <td>
+                <a href="https://github.com/fabiocaccamo/FCIPAddressGeocoder/pulls"><img src="https://img.shields.io/github/issues-pr/fabiocaccamo/FCIPAddressGeocoder?style=flat" /></a>
+            </td>
+            <td>
+                &ndash;
             </td>
         </tr>
         <tr>
